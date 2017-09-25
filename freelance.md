@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Freelance
-permalink: /freelance
+permalink: /freelance/
 ---
 
 ## Translation Job/　翻訳
