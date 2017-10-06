@@ -2,7 +2,6 @@
 layout: post
 title: The Failing Education System
 ---
-
 # Unspoken in the air
   Ever since the millenia, the education systems around the world is failing fast, in general. Every "reform" can only get worse, seldomly better. This has a number of reasons, mostly ideology or belief issues. Here I presents a few points that is rarely mentioned by mass media and politicians, which i think, key issues.
     
