@@ -3,7 +3,6 @@ style: post
 title: The Failing Education System
 ---
 
-# 
   Ever since the millenia, the education systems around the world is failing fast, in general. Every "reform" can only get worse, seldomly better. This has a number of reasons, mostly ideology or belief issues.
     
 ## Education for Economy
