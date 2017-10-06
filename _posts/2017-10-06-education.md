@@ -3,7 +3,8 @@ layout: post
 title: The Failing Education System
 ---
 
-  Ever since the millenia, the education systems around the world is failing fast, in general. Every "reform" can only get worse, seldomly better. This has a number of reasons, mostly ideology or belief issues.
+# Unspoken in the air
+  Ever since the millenia, the education systems around the world is failing fast, in general. Every "reform" can only get worse, seldomly better. This has a number of reasons, mostly ideology or belief issues. Here I presents a few points that is rarely mentioned by mass media and politicians, which i think, key issues.
     
 ## Education for Economy
 ### training workers for private sectors
@@ -35,4 +36,4 @@ title: The Failing Education System
   Another extreme is bullies. While it is best for people to settle issue themselve, school bullies is a different thing. They are N vs 1 entity and the victim is helpless. Over-protection (for bullies) and PTA (improper) intervention is a factor that aggreviate the situation.
   
 ## Summary
-Modern education sucks! And sucks more when Money involved.
+Modern education sucks! And sucks more when Capitalist involved.
