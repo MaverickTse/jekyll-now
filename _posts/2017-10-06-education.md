@@ -1,5 +1,5 @@
 ---
-style: post
+layout: post
 title: The Failing Education System
 ---
 
