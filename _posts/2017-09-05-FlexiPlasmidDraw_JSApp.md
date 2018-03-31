@@ -1,6 +1,6 @@
 ---
 layout: post
-title: FlexiPlasmidDraw
+title: FlexiPlasmidDraw (Client-side JavaScript App)
 ---
 # FlexiPlasmidDraw
 Another project which got empty thanks. Seems actually being used by some Australia university due to locked-down computer policy. See source code repo [HERE](https://github.com/MaverickTse/FlexiPlasmidDraw)
