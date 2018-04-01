@@ -10,3 +10,8 @@ Another project which got empty thanks. Seems actually being used by some Austra
 * [2008 Deluxe version with 2017 patch](https://www.mavtse.com/FlexiPlasmidDraw/FlexiPlasmidDraw%20v2%20Deluxe.xhtml)
 * [2008 Basic version (no preview)](https://www.mavtse.com/FlexiPlasmidDraw/TYMPlasmidDraw.htm)
 
+
+## Sample
+
+![plasmid](https://www.mavtse.com/FlexiPlasmidDraw/proper_demo.svg)
+
