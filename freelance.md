@@ -4,6 +4,8 @@ title: Freelance
 permalink: /freelance/
 ---
 
+# On HALT due to resumed employment (October 2018)
+
 ## Translation Job/　翻訳
 - I can translate among English, Chinese Traditional and Japanese. For non-legal document only.
 - 提供中<>英<>日文間的翻譯。只限非法律文件
